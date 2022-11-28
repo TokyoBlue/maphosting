@@ -11,7 +11,7 @@
 
 	
 
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=	d1496357c66f56229d2f9f9413e0dd35발급받은 APP KEY를 사용하세요"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=d1496357c66f56229d2f9f9413e0dd35"></script>
 <script>
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
     mapOption = { 
